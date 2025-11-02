@@ -13,7 +13,7 @@
 
 ---
 
-## 🪟 Windows 설치
+## ☕ java 설치
 
 ### 1️⃣ Java 설치 확인
 ```cmd
@@ -295,3 +295,4 @@ chmod +x start.sh
 **문제가 계속되나요?**
 - [이슈 등록](https://github.com/lhj080902/hardcore-survival-1.21.8/issues)
 - [README.md 문제 해결 섹션](README.md#-문제-해결) 참고
+
