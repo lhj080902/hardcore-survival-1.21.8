@@ -55,6 +55,10 @@
 ### 1️⃣ 필요 사항
 - ☕ **Java 21** 이상
 - 🖥️ **Paper 1.21.8** 서버 엔진 ([다운로드](https://papermc.io/downloads/paper))
+- 🔌 **플러그인** (포함됨):
+  - Skript 2.12.2
+  - skript-reflect 2.6.1
+  - SkBee 3.12.3
 - 💾 최소 **4GB RAM** 권장
 
 ### 2️⃣ 설치 단계
@@ -117,7 +121,7 @@ chmod +x start.sh
 | 💎 **생명의 메아리** | 다른 플레이어가 부활 | 우클릭으로 사용 |
 
 #### 시체 회수
-- 🤕 **나무 막대기**로 시체 우클릭 → 머리 획득
+- 🪵 **나무 막대기**로 시체 우클릭 → 머리 획득
 - ⏰ **5분 쿨타임** 적용
 - 📦 머리 재설치 시 시체 복원
 
@@ -304,6 +308,7 @@ Java 21 미만이면 [여기서 다운로드](https://adoptium.net/)
 - [Paper Server](https://papermc.io/)
 - [Skript 2.12.2](https://github.com/SkriptLang/Skript)
 - [skript-reflect 2.6.1](https://github.com/TPGamesNL/skript-reflect)
+- [SkBee 3.12.3](https://github.com/ShaneBeee/SkBee)
 
 ### 특별 감사
 - Skript 커뮤니티
@@ -337,4 +342,3 @@ Java 21 미만이면 [여기서 다운로드](https://adoptium.net/)
 ⭐ 이 프로젝트가 마음에 드셨다면 Star를 눌러주세요! ⭐
 
 </div>
-
