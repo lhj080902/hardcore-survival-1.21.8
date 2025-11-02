@@ -21,7 +21,7 @@ java -version
 ```
 
 Java가 없거나 버전이 낮으면:
-- [Adoptium JDK 21 다운로드](https://adoptium.net/temurin/releases/?version=21)
+- [Oracle JDK 21 다운로드](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
 ### 2️⃣ 서버 다운로드
 1. 이 저장소를 다운로드하거나 클론:
@@ -295,4 +295,5 @@ chmod +x start.sh
 **문제가 계속되나요?**
 - [이슈 등록](https://github.com/lhj080902/hardcore-survival-1.21.8/issues)
 - [README.md 문제 해결 섹션](README.md#-문제-해결) 참고
+
 
